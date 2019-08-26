@@ -1,5 +1,4 @@
- <script type="text/javascript">
-  (function () {
+(function () {
   var d = document;
   var l = "https://butaba.com";
   var n = d.getElementsByTagName('script')[0];
@@ -12,4 +11,4 @@
     ZUDA.init("https://zuda.vn/products/merawhite?company=merawhite"); // Điền địa chỉ cần back về
   }
 })();
-</script>
+
